@@ -1,5 +1,5 @@
-import {Header} from 'header';
-import {Footer} from 'footer';
+import {Header} from 'fl-header';
+import {Footer} from 'fl-footer';
 
 export default function Index() {
     return (

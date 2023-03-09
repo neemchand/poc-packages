@@ -1,5 +1,5 @@
 {
-  "name": "header",
+  "name": "fl-header",
   "version": "0.0.3",
   "main": "dist/index.js",
   "license": "MIT",
@@ -23,5 +23,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "5f15d75bf561130be00fe4344970f1ff59c2dccc"
+  "gitHead": "05cb1d8ad357d3e70c7eb823b56d2cf421719ce8"
 }
