@@ -3,6 +3,7 @@ dist
 .idea
 
 .cache
-packages/remixapp
+packages/remixapp/build
+packages/remixapp/public/build
 .env
 
