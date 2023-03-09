@@ -2,6 +2,7 @@
   "name": "header",
   "version": "0.0.1",
   "main": "dist/index.js",
+  "license": "MIT",
   "scripts": {
     "build": "rimraf dist && rollup --config",
     "test": "jest"
@@ -21,5 +22,6 @@
   },
   "devDependencies": {
     "rimraf": "^3.0.2"
-  }
+  },
+  "gitHead": "3e936072e2dcd2e0ec4b11cd4eac263d18905e6f"
 }
